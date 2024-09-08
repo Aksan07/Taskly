@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # taskly
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Taskly
+>>>>>>> 7d2cb598c0f159ed584feb1e59fbc33b93318d2b
